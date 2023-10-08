@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "title": "Liite",
+    "price": ["$3,289/ano", "$299/mes"],
+    "modulesIncluded": [
+      "Agenda de provedores",
+      "Catalogo",
+      "Cartera",
+      "Fracturacion",
+      "Inventario Simple",
+      "Ordenes de compra"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Basiico",
+    "price": ["$7,689/ano", "$699/mes"],
+
+    "modulesIncluded": [
+      "Todo lo del plan Liite",
+      "Agenda Clientes",
+      "Cuentas por Cobrar",
+      "Dashboard Basico",
+      "Inventario Completo",
+      "Sessiones"
+    ],
+    "tagline": "El más popular"
+  },
+  {
+    "id": 3,
+    "title": "Basiico +",
+    "price": ["$18,689/ano", "$1,699/mes"],
+    "modulesIncluded": [
+      "Todo lo del plan Basiico",
+      "Cartera",
+      "Cuentas por Pagar",
+      "Dashboard con Productos",
+      "Dashboard con Servicios",
+      "20 Folios Gratis"
+    ]
+  }
+]
